@@ -1,6 +1,14 @@
 ![WX20200617-160713@2x.png](https://i.loli.net/2020/06/17/svAqmeMbIlN4LTn.png)
 
 
+## 快速开发框架
+
+|                   作者                    |                             项目                             |
+| :---------------------------------------: | :----------------------------------------------------------: |
+| [hegaojian](https://github.com/hegaojian) | [一个简单的MVVM配合Jetpack的开发框架](https://github.com/hegaojian/JetpackMvvm) |
+|                                           |                                                              |
+|                                           |                                                              |
+
 
 ## 网络请求框架
 
@@ -40,11 +48,4 @@
 
 
 
-## 快速开发框架
-
-|                   作者                    |                             项目                             |
-| :---------------------------------------: | :----------------------------------------------------------: |
-| [hegaojian](https://github.com/hegaojian) | [一个简单的MVVM配合Jetpack的开发框架](https://github.com/hegaojian/JetpackMvvm) |
-|                                           |                                                              |
-|                                           |                                                              |
 
