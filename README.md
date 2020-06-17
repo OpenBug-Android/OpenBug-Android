@@ -1,4 +1,4 @@
-![WX20200617-154954.png](https://i.loli.net/2020/06/17/JVsCZBG4rjxvwdn.png)
+![WX20200617-155428.png](https://i.loli.net/2020/06/17/JSFP7dlxIefAh4i.png)
 
 # OpenBug-Android
 
