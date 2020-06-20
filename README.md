@@ -1,6 +1,8 @@
 ![WX20200617-160713@2x.png](https://i.loli.net/2020/06/17/svAqmeMbIlN4LTn.png)
 
 
+为促进小伙伴们对技术点的持续跟进与交流，我们创建了 OpenBug 仓库，可在 issue 区投稿个人开源项目 😉
+
 
 
 ## 网络请求框架
