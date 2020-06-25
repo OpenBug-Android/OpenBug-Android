@@ -15,6 +15,7 @@
 - [快速开发框架](#kskfkj)
 - [数据交互](#sjjh)
   - [持久化存储](#cjhcc)
+- [权限请求框架](#qxqqkj)
 
 
 
@@ -75,4 +76,11 @@
 | [Vove7](https://github.com/Vove7) | [SmartKey - 利用Kotlin委托实现优雅地持久化存储配置](https://github.com/Vove7/SmartKey) |
 |                                   |                                                              |
 |                                   |                                                              |
+
+## <p id="qxqqkj">权限请求框架</p>
+|                   作者                    |                             项目                             |
+| :---------------------------------------: | :----------------------------------------------------------: |
+| [Flywith24](https://github.com/Flywith24) | [使用 Activity Result API + Kotlin 扩展函数 封装权限请求库](https://github.com/Flywith24/Flywith24-Permission) |
+|                                           |                                                              |
+|                                           |                                                              |
 
