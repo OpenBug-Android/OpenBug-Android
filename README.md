@@ -36,13 +36,13 @@
 
 ## <p id="uijhzj">UI 交互组件</p>
 
-#### <p id="tcdhk">弹窗、对话框</p>
+#### <p id="tcdhk">浮窗、对话框、菜单</p>
 
 |                        作者                         |                             项目                             |
 | :-------------------------------------------------: | :----------------------------------------------------------: |
 | [JiangHaiYang01](https://github.com/JiangHaiYang01) | [SheetDialog , 仿造IOS 风格底部弹出的Dialog](https://github.com/JiangHaiYang01/SheetDialog) |
 |          [Vove7](https://github.com/Vove7)          | [可高度自定义的底部对话框 BottomSheetDialog](https://github.com/Vove7/BottomDialog) |
-|                                                     |                                                              |
+| [JiangHaiYang01](https://github.com/JiangHaiYang01) | [高仿微信查看大图 放大缩小](https://github.com/JiangHaiYang01/WeChatPhoto) |
 
 #### <p id="ymdhhjz">页面导航和加载</p>
 
