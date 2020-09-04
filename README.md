@@ -6,9 +6,9 @@
 
 （排名不分先后）
 
-| ![WX20200802-015646@2x.png](https://i.loli.net/2020/08/02/NBwJMdiHzkoVQsh.png) | ![WX20200802-015619@2x.png](https://i.loli.net/2020/08/02/9qiWD6jpdQKM37w.png) | ![WX20200802-015659@2x.png](https://i.loli.net/2020/08/02/1pUErWsdFDLlmYH.png) | ![WX20200802-015611@2x.png](https://i.loli.net/2020/08/02/sBZTK2VF8avuPkn.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![WX20200802-015724@2x.png](https://i.loli.net/2020/08/02/hkiCRO36JpdmIUw.png) | ![WX20200802-015733@2x.png](https://i.loli.net/2020/08/02/BgMFOiz4hSnKlGr.png) | ![WX20200802-015708@2x.png](https://i.loli.net/2020/08/02/Q96oicfgBCJFYSN.png) | ![WX20200802-015717@2x.png](https://i.loli.net/2020/08/02/nhfyJNRga9FcvY3.png) |
+| ![WX20200802-015646@2x.png](https://i.loli.net/2020/08/02/NBwJMdiHzkoVQsh.png) | ![WX20200802-015619@2x.png](https://i.loli.net/2020/08/02/9qiWD6jpdQKM37w.png) | ![WX20200802-015659@2x.png](https://i.loli.net/2020/08/02/1pUErWsdFDLlmYH.png) | ![WX20200802-015611@2x.png](https://i.loli.net/2020/08/02/sBZTK2VF8avuPkn.png) | ![](https://i.loli.net/2020/09/04/HzvgJUuqsxhfc94.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
+| ![WX20200802-015724@2x.png](https://i.loli.net/2020/08/02/hkiCRO36JpdmIUw.png) | ![WX20200802-015733@2x.png](https://i.loli.net/2020/08/02/BgMFOiz4hSnKlGr.png) | ![WX20200802-015708@2x.png](https://i.loli.net/2020/08/02/Q96oicfgBCJFYSN.png) | ![WX20200802-015717@2x.png](https://i.loli.net/2020/08/02/nhfyJNRga9FcvY3.png) |                                                        |
 
 
 
@@ -104,11 +104,11 @@
 
 #### <p id="lytx">蓝牙通信</p>
 
-|               作者                |                             项目                             |
-| :-------------------------------: | :----------------------------------------------------------: |
+|                   作者                    |                             项目                             |
+| :---------------------------------------: | :----------------------------------------------------------: |
 | [zkywalker](https://github.com/zkywalker) | [Beartooth - 一套传统蓝牙的封装库](https://github.com/zkywalker/Beartooth) |
-|                                   |                                                              |
-|                                   |                                                              |
+|                                           |                                                              |
+|                                           |                                                              |
 
 ## <p id="qxqqkj">权限请求框架</p>
 
@@ -122,9 +122,6 @@
 
 ## <p id="motion">Motion 动画案例</p>
 
-| 组织                                                        | 项目                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------ |
-| [Jetpack-Missionary](https://github.com/Jetpack-Missionary) | [MotionChallenge](https://github.com/Jetpack-Missionary/MotionChallenge) |
-
-
-
+| 组织                                                        | 项目               |
+| ----------------------------------------------------------- | ------------------ |
+| [Jetpack-Missionary](https://github.com/Jetpack-Missionary) | [MotionChallenge]( |
