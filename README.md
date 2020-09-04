@@ -124,4 +124,4 @@
 
 | 组织                                                        | 项目               |
 | ----------------------------------------------------------- | ------------------ |
-| [Jetpack-Missionary](https://github.com/Jetpack-Missionary) | [MotionChallenge]( |
+| [Jetpack-Missionary](https://github.com/Jetpack-Missionary) | [MotionChallenge](https://github.com/Jetpack-Missionary/MotionChallenge) |
