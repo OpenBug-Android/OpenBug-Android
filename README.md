@@ -6,9 +6,10 @@
 
 （排名不分先后）
 
-| ![WX20200802-015646@2x.png](https://i.loli.net/2020/08/02/NBwJMdiHzkoVQsh.png) | ![WX20200802-015619@2x.png](https://i.loli.net/2020/08/02/9qiWD6jpdQKM37w.png) | ![WX20200802-015659@2x.png](https://i.loli.net/2020/08/02/1pUErWsdFDLlmYH.png) | ![WX20200802-015611@2x.png](https://i.loli.net/2020/08/02/sBZTK2VF8avuPkn.png) | ![](https://i.loli.net/2020/09/04/HzvgJUuqsxhfc94.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![WX20200802-015724@2x.png](https://i.loli.net/2020/08/02/hkiCRO36JpdmIUw.png) | ![WX20200802-015733@2x.png](https://i.loli.net/2020/08/02/BgMFOiz4hSnKlGr.png) | ![WX20200802-015708@2x.png](https://i.loli.net/2020/08/02/Q96oicfgBCJFYSN.png) | ![WX20200802-015717@2x.png](https://i.loli.net/2020/08/02/nhfyJNRga9FcvY3.png) |                                                        |
+| ![](https://i.loli.net/2020/08/02/NBwJMdiHzkoVQsh.png) | ![](https://i.loli.net/2020/08/02/9qiWD6jpdQKM37w.png) | ![](https://i.loli.net/2020/08/02/1pUErWsdFDLlmYH.png) | ![](https://i.loli.net/2020/08/02/sBZTK2VF8avuPkn.png) | ![](https://i.loli.net/2020/09/04/HzvgJUuqsxhfc94.png)       |
+| ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://i.loli.net/2020/08/02/hkiCRO36JpdmIUw.png) | ![](https://i.loli.net/2020/08/02/BgMFOiz4hSnKlGr.png) | ![](https://i.loli.net/2020/08/02/Q96oicfgBCJFYSN.png) | ![](https://i.loli.net/2020/08/02/nhfyJNRga9FcvY3.png) | ![](https://tva1.sinaimg.cn/large/008i3skNly1grlpejs46kj30hg0kkjxr.jpg) |
+
 
 
 
@@ -34,7 +35,7 @@
   - [持久化存储](#cjhcc)
   - [蓝牙通信](#lytx)
 - [权限请求框架](#qxqqkj)
-
+- [Gradle 插件](#gradle)
 
 ## <p id="wlqqkj">网络请求框架</p>
 
@@ -125,3 +126,11 @@
 | 组织                                                        | 项目               |
 | ----------------------------------------------------------- | ------------------ |
 | [Jetpack-Missionary](https://github.com/Jetpack-Missionary) | [MotionChallenge](https://github.com/Jetpack-Missionary/MotionChallenge) |
+
+
+## <p id="gradle">Gradle 插件</p>
+
+| 作者                                                        | 项目               |
+| ----------------------------------------------------------- | ------------------ |
+| [Leifzhang](https://github.com/Leifzhang) | [通过gradle插件实现多仓库混合编译，组件化插件的一部分](https://github.com/Leifzhang/GradleTask) |
+| [Leifzhang](https://github.com/Leifzhang) | [完成了lambda 以及普通函数插桩，实现了类替换逻辑，封装了基础BaseTransform，可以在此基础上快速学习安卓Plugin插件的开发。](https://github.com/Leifzhang/AndroidAutoTrack) |
